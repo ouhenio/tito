@@ -4,9 +4,10 @@ This project attempts to create a **spanish small language model**. Its an educa
 
 Current roadmap:
 
-- Pretrain a 135M GPT on a subset of [red-pajama_es_hq](https://huggingface.co/datasets/latam-gpt/red_pajama_es_hq).
-- Add instruction finetunning.
-- Add DPO.
+- [ ] Pretrain a 135M GPT on a subset of [red-pajama_es_hq](https://huggingface.co/datasets/latam-gpt/red_pajama_es_hq).
+  - [Trained a first version](https://huggingface.co/ouhenio/tito). 😊
+- [ ] Add instruction finetunning.
+- [ ] Add DPO.
 
 ---
 
